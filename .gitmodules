@@ -1,0 +1,9 @@
+[submodule "dotfiles"]
+	path = dotfiles
+	url = git@github.com:Komareal/dotfiles.git
+[submodule "arch-pkg-list"]
+	path = arch-pkg-list
+	url = git@github.com:Komareal/arch-pkg-list.git
+[submodule "arch-conf"]
+	path = arch-conf
+	url = git@github.com:Komareal/arch-conf.git
