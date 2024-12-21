@@ -7,3 +7,18 @@
 [submodule "arch-conf"]
 	path = arch-conf
 	url = git@github.com:Komareal/arch-conf.git
+[submodule "suckless/dwm"]
+	path = suckless/dwm
+	url = git@github.com:Komareal/Suckless-DWM.git
+[submodule "suckless/st"]
+	path = suckless/st
+	url = git@github.com:Komareal/Suckless-St.git
+[submodule "suckless/slock"]
+	path = suckless/slock
+	url = git@github.com:Komareal/Suckless-Slock.git
+[submodule "suckless/wmname"]
+	path = suckless/wmname
+	url = https://git.suckless.org/wmname
+[submodule "suckless/dwmblocks-async"]
+	path = suckless/dwmblocks-async
+	url = git@github.com:Komareal/Suckless-dwmblocks-async.git
